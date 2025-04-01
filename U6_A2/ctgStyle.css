@@ -41,7 +41,7 @@ nav {
 nav li{
 	flex: 1;
 	flex-direction: row;
-	width: 100vmax;
+	width: 100vw;
 }
 
 nav a {
