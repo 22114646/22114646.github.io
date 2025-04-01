@@ -1,0 +1,289 @@
+body, html{
+	width: 100vw;
+	font-family: Roboto, sans-serif;
+	background-color: #EFE9D5;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#mainbanner{	
+	width: 100vw ;
+	height: 300px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+#logo{
+	max-width: 30vw;
+	max-height: 300px;
+	width: auto;
+	height: auto;
+}
+
+#banner{
+	max-width: 70vw;
+	max-height: 300px;
+	width: auto;
+	height: auto;
+}
+
+nav {
+    display: block;
+	width: 100vw;
+	background-color: #740938;
+}
+
+nav li{
+	flex: 1;
+	flex-direction: row;
+	width: 100vmax;
+}
+
+nav a {
+	display: block;
+	text-align: center;
+	padding: 18px 22px;
+	color: white;	
+	
+}
+
+nav ul {
+	display: flex;
+	justify-content: flex-start;
+	list-style: none;
+	background-color: #740938;
+	height: 56px;
+	width: 100%;
+}
+
+
+}
+
+
+h1{
+	color: #27445D;
+	font-size: 50px;
+	padding: 10px;
+}
+
+h2{
+	color: #497D74;
+	padding: 10px;
+}
+
+p{
+	color: #4A8F88;
+	font-size: 25px;
+	padding: 10px;
+}
+
+a {
+	color: #2973B2;
+}
+
+
+a:hover {
+	color:#497D74;
+}
+
+a:visited {
+	color:#27445D;
+}
+
+
+
+figure {
+	display: block;
+	width: 350px;
+	height: 500px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+figcaption {
+	display: block;
+	text-align: center;
+}
+
+
+
+#mttvid{
+	display: flex;
+	max-width: 1280px;
+	max-height: 800px;
+	min-height: 450px;
+	min-width: 350px;
+	width: 100%;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 40px;
+}
+
+
+.teamrow{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	max-width: 1920px;
+	width: 100%;
+}
+
+
+.tmimg{
+	max-width: 350px;
+	max-height: 350px;
+	width: 100%;
+	height: 100%;
+}
+
+.prodrow{
+	width: 100%;
+	height: 400px;
+	display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+	flex-direction: column;
+	text-align: center;
+    justify-content: space-between;
+}
+
+.prodimg{
+	max-width: 750px;
+	max-height: 650px;
+	width: 90%;
+	height: 100%;
+	padding: 15px;
+}
+
+.prodinfo {
+	max-width: 1100px;
+	max-height: 400px;
+	padding: 10px;
+
+	width: 90%;
+	height: 100%;
+}
+
+
+
+form {
+	max-width: 40%;
+}
+
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+.btn {
+  background-color: dodgerblue;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+b {
+	font-size: 25px;
+	color: #4a8F88;
+	padding: 10px;
+}
+
+#sdvloglist 	{
+	color: #4a8F88;
+	font-size: 25px;
+	padding: 10px;
+}
+
+#sdvdevlog {
+	display: block;
+	padding: 30px;
+	
+}
+
+li {
+	padding-left: 25px;
+	margin-left: 25px;
+}
+
+#hkdevlog{
+	max-height: 650px;
+	max-width: 1100px;
+	height: 100%;
+	width: 100%;
+	padding-left: 25px;
+
+}
+
+#blogimg {
+	max-height: 600px;
+	max-width: 550px;
+	width: auto;
+	height: auto;
+}
+
+#hkdevlogcon{
+	padding: 30px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	max-width: 1920px;
+	width: 100%;
+}
+#blogimgcon{
+	max-width: 550px; 
+	max-width: 650px;
+	width: 100%;
+	height: 100%;
+}
+
+.tacbox {
+	display:block;
+	padding: 1em;
+	margin: 1em;
+	border: 3px solid #ddd;
+	background-color: #eee;
+	max-width: 800px;
+}
+
+input {
+	height: 2em;
+	width: 2em;
+	vertical-align: middle;
+}

@@ -1,0 +1,11 @@
+Silksong Development Progress
+Right up front: We’re still going, building this (very large) game. Our desire to keep building, and building, and building sure hasn’t diminished, but our timelines have stretched a bit both to account for all that exciting new stuff and to tie up everything else.
+
+As a small progress tease: You may remember for Silksong we promised over 150 all new enemies. To us, that always seemed a conservative estimate, and it turns out we were right! Here are just a few foes that came to life this week, enemy number 163, 164 and 165.
+
+SS_set.png
+Though their names shall remain a mystery, we can say they’re members of a scholarly suite, former tenders of a dusty vault full of ancient knowledge. This is a tough later game trio who, when in battle, work closely together, covering for each other’s weaknesses.
+
+And as some assurance: We’re not just randomly building things without an end in site. We know how this story unfolds and as much as we add, our intent is always to evoke the feeling of exploring a vast, surprising new world; one that matches (or exceeds) the scale and diversity of the original game.
+
+We can’t wait to one day talk about all the wild evolutions to this new world that’ve taken place behind the scenes, but that day’ll have to wait until after the game is out and in your hands.

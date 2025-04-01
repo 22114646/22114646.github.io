@@ -1,0 +1,72 @@
+avatar
+1.6.15.1 Patch for Xbox, PlayStation, and Switch
+ConcernedApe posted on February 12th, 2025 in Uncategorized
+Hello,
+
+This patch addresses several issues on console versions of the game, and syncs up the content with the latest on PC.
+
+An equivalent patch for the Nintendo Switch will follow as soon as possible.   (Edit: 2/26/25) This patch is now available on the Switch as well.
+
+Thank you for playing Stardew Valley
+
+-Ape
+
+ 
+
+Stardew Valley 1.6.15.1 Changelog (Consoles):
+
+-(Switch) Fixed bug where every gift was considered a “loved” gift
+
+– Performance optimizations.
+– Added the Junimo bundle button to fridge and mini-fridge UIs.
+– Fixed debris able to spread under giant crops.
+– Legendary fish ponds now produce roe much more often and have a higher average daily value.
+– Fixed Krobus’ shop not accessible on Fridays for Japanese players.
+– Fixed some things being less random than intended.
+– Fixed some older items in the lost & found not correctly retrieveable.
+– Fixed crash when collecting empty crab pots.
+– Fixed crash when farm animals somehow end up in multiple locations.
+– Fixed crash when failing to play/resume/pause/stop sound effects.
+– Fixed crash in raccoon menu if you have a base flavored item in your inventory.
+– Fixed crash if a shop somehow has a null item from a player to sell.
+– Fixed rare crash in Calico Jack minigame.
+– Fixed error loading pre-1.6 saves with case-sensitive stat key conflicts; conflicting stats are now merged.
+– Fixed selected tool lost in some cases when obtaining a stardrop.
+– Fixed some mail getting re-sent to farmhands every day.
+– Fixed crash when a farmhand passes out while warping between locations.
+– Fixed co-op menu scroll not reset when switching tab.
+– Improved Hungarian and Japanese translations.
+– Fixed a missing period in the shears description.
+– Fixed some item tooltips on the collection tab in some languages showing a raw {1} token.
+– Fixed gray box behind Russian railroad sign.
+– Fixed Robin’s start-construction message showing the general building name inconsistently.
+– Fixed a few translated dialogues with broken dialogue commands.
+– Fixed Alex’s hand in one of his portraits.
+– Fixed butterflies spawned by statue of blessings glitching out in summer.
+– Added a few extra spouse reactions when interacting with them without dialogue.
+– You no longer lose a fish if you pass out while holding it, or pass out while fishing into a fish pond.
+– Fixed animal products always harvesting with base quality.
+– Fixed chimney duplication when creating a new save.
+– Fixed players inside farm buildings mis-positioned on the world map.
+– Fixed spouses sometimes facing the wrong direction after an interaction.
+– Fixed rare crash when obtaining stardrops with stowed tools.
+– Fixed rare crash when updating Robin’s construction animation.
+– Fixed roommates requiring two house upgrades instead of one (like marriage candidates).
+– Fixed spouses being warped to 0,0 for farmhands.
+– Fixed crash when homeless farmhands remain after deleting cabins.
+– Fixed legendary fish in fish ponds being more profitable than intended.
+– Signs placed on legendary fish ponds no longer show a “1” under the fish.
+– Fixed NPCs not being able to walk over the beach bridge.
+– Fixed controller rumble being disabled.
+– Fixed secret gift recipient hint no longer showing up on the skills tab.
+– Fixed rare crash when making a call using the telephone.
+– Fixed some minor visual issues with Cyrillic characters.
+– Fixed NPCs not responding the first time you talk to them.
+– Fixed being unable to grab furniture from walls.
+– Improved some French and Russian translations.
+– Fixed crash when the lost items shop sells Penny’s 14-heart event items.
+– Fixed chickens disappearing on newly created Meadowlands farms.
+– Fixed rare crash when transitioning between mine locations in multiplayer.
+– Fixed bug where you could harvest unusual quantities of items from crab pots.
+– If you lost an item that can’t be found again, a new friend appears in the secret woods who can get it back (for a price).
+– Added new Easter eggs.

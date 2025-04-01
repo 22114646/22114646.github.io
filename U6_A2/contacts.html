@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Contact Us</title>
+	<link href="ctgStyle.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+</head>
+
+<body>
+<header>
+<div id="mainbanner">
+	
+	<a href="index.html">
+	<img src="images/logo.png" alt="Celtec Games Logo Image" id="logo">
+	</a>
+	
+	<img src="images/banner.png" alt="Celtec Games Banner Image" id="banner">
+
+</div>
+</header>
+
+<nav>
+	<ul>
+		<li><a href="index.html">Homepage</a></li>
+		<li><a href="aboutus.html">About Us</a></li>
+		<li><a href="products.html">Products</a></li> 
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="contacts.html">Contact Us</a></li> 
+	</ul>	
+</nav>
+
+<main>
+
+	<section>
+		<h1>Contact Us</h1>
+		<h2>Email: celtecsupport@gmail.com</h2>
+		<h2>Mobile Number: 1234567890</h2>
+		<h2>Facebook: @CeltecGames</h2>
+		<h2>Instagram: @CeltecGames</h2>
+		<h2>X (Twitter): @CeltecGames</h2>
+		<h2>Reddit: @CeltecGames</h2>
+	</section>
+
+	<script>
+ 
+</script>	
+	
+<form method="post" action="mailto: celtecnewsletter@gmail.com" onsubmit="return validateForm()">
+	<h1>Newsletter Register Form</h1>
+	<div class="input-container">
+		<i class="fa fa-user icon"></i>
+		<input class="input-field" type="text" placeholder="Username" name="username" required>
+	</div>
+
+	<div class="input-container">
+		<i class="fa fa-envelope icon"></i>
+		<input class="input-field" type="email" placeholder="Email" name="email" required>
+	</div>
+
+	<div class="input-container">
+		<i class="fa fa-key icon"></i>
+		<input class="input-field" type="password" placeholder="Password" name="password" required>
+	</div>
+	
+		<div class="input-container">
+		<i class="fa fa-key icon"></i>
+		<input class="input-field" type="password" placeholder="Confirm Password" name="password_confirm" required>
+	</div>
+	
+	 <div class="tacbox">
+        <input id="checkbox" type="checkbox">
+        <label for="checkbox"> I agree to these <a href="txt/cgtac" target="_blank">Terms and Conditions</a>.</label>
+        <p id="error-message" style="color: red; display: none;">You must agree to the Terms and Conditions!</p>
+    </div>
+
+    <button type="submit" class="btn">Register</button>
+</form>
+
+<script>
+    function validateForm() {
+        let checkbox = document.getElementById("checkbox");
+        let errorMessage = document.getElementById("error-message");
+
+        if (!checkbox.checked) {
+            errorMessage.style.display = "block"; // Show error message
+            return false; // Prevent form submission
+        } else {
+            errorMessage.style.display = "none"; // Hide error if checked
+            return true; // Allow form submission
+        }
+    }
+</script>
+	
+	
+</form>
+
+
+</main>
+
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+- Remade the banner since the original banner was too small to cover the whole webpage without being warped.
+- Resized the logo within the code to fit in line with the banner
+- Resized the new banner within the code to 1520px to fit in line with the logo
+- Added a shade of the colour red to the navigation banner (#740938) 
+- I decided to change the colour of the link since it was hard to see with the colour of the navigation bar
+- Change the colour of the P tag to a darker colour so the text is easier to read #4a8F88
